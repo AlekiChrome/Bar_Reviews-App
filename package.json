@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Bar Reviews PERN stack app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bars",
+    "PERN-Stack",
+    "review",
+    "app"
+  ],
+  "author": "Candice Agard",
+  "license": "ISC"
+}
